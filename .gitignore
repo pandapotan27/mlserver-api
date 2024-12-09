@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore Firestore key file
+key-firestore.json
+
+# Don't ignore package.json and package-lock.json
+!package.json
+!package-lock.json
